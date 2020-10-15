@@ -3,7 +3,7 @@ const hoursEl = document.getElementById("hours");
 const minsEl = document.getElementById("mins");
 const secondsEl = document.getElementById("seconds");
 
-const meetTime = "2020-10-11T09:00:00";
+const meetTime = document.getElementById("target-time"); // "2020-10-11T09:00:00";
 
 function countdown() {
   const meetDate = new Date(meetTime);
