@@ -4,9 +4,6 @@ Welcome to _**tobiasforest.github.io**_!
 
 Functions updating "gradually"...
 
-
-
 ## Current function(s):
 
-### [countdown](./countdown/)
-
+- ### [countdown](./countdown/)
